@@ -1,0 +1,5 @@
+{
+  "name": "RefugeeConnect",
+  "description": "ระบบรวบรวมและจัดการข้อมูลสำหรับลงทะเบียนและติดตามผู้อพยพ เชื่อมต่อกับ Google Sheets",
+  "requestFramePermissions": []
+}
